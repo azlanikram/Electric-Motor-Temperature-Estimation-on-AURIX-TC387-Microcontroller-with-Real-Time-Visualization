@@ -1,0 +1,17 @@
+/TriCore Debug (TASKING)/
+.ads/
+.settings/
+Configurations/
+HighTech GCC/
+.metadata/
+Libraries/iLLD/TC38A/Tricore/_Build/
+.cproject
+.project
+*.launch
+*.d
+*.o
+*.src
+*.elf
+*.hex
+*.map
+*.mdf

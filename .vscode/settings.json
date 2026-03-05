@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "conio_tft.h": "c",
+        "densemlp.simplified.h": "c",
+        "graph_tft.h": "c"
+    }
+}
